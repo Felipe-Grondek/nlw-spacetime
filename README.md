@@ -1,4 +1,4 @@
-# Projeto feito no NLW da Rocketseat
+# Projeto feito no NLW Spacetime da Rocketseat
 
 ## Projeto realizado utilizando Fastify no servidor, Next Js na Web e React Native com Expo no mobile.
 
